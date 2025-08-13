@@ -1,9 +1,9 @@
-import AccordionPage from "./pages/accordion";
+import { ChipsInputPage } from "./pages/chips-input";
 
 export default function App() {
 	return (
 		<>
-			<AccordionPage />
+			<ChipsInputPage />
 		</>
 	);
 }
